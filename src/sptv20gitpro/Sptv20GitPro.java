@@ -17,7 +17,10 @@ public class Sptv20GitPro {
     public static void main(String[] args) {
         System.out.println("1 version");
         System.out.println("2 version");
+<<<<<<< HEAD
         System.out.println("3 version");
+=======
+>>>>>>> ac964e9c3cee0d534de5ad75b3ce8a5668027858
     }
     
 }
